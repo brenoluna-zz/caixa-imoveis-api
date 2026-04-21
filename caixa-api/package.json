@@ -1,6 +1,5 @@
 {
   "name": "caixa-imoveis-api",
   "version": "1.0.0",
-  "description": "API proxy para imóveis da Caixa Econômica Federal",
   "private": true
 }
